@@ -36,3 +36,4 @@ Utilizing the InceptionResNetV2 model the same process is done and results are c
 ![](Transfer_learning_loss_accuracy.png)
 
 Please see the file CNN_Transfer_Learning_Mask.py to view the full code.
+For a more detailed description of this project please visit the Kaggle notebook at https://www.kaggle.com/dbsimpson/basic-cnn-and-transfer-learning
