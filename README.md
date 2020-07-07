@@ -9,11 +9,16 @@ As a secondary goal I wished to highlight transfer learning using ImageNet as an
 ## Method:
 ### Basic CNNs
 First all the necessary data and libraries are imported. The CV2 library is for data processing and resizing of the images. Examples of the processed images are shown below:
-
-Next the models are built, trained and evaluated for accuracy:
-
+![](Processed_imgs.png)
+Next the models are built, trained and evaluated for accuracy.
+![](Simple_CNN.png)
+![](Simple_CNN_epochs.png)
+![](Simple_CNN_evaluation.png)
 Matplotlib is used to visualize the results of the loss and accuracy over time for each epoch:
-
+![](Simple_CNN_loss_accuracy.png)
 ### Transfer learning
 Utilizing the InceptionResNetV2 model the same process is done and results are comapared:
+![](Transfer_learning_model.png)
+![](Transfer_learning_loss_accuracy.png)
 
+Please see the file CNN_Transfer_Learning_Mask.py to view the full code.
