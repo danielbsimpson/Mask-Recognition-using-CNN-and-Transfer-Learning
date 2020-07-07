@@ -14,8 +14,14 @@ Next the models are built, trained and evaluated for accuracy.
 ![](Simple_CNN.png)
 ![](Simple_CNN_epochs.png)
 ![](Simple_CNN_evaluation.png)
+
+
 Matplotlib is used to visualize the results of the loss and accuracy over time for each epoch:
+
+
 ![](Simple_CNN_loss_accuracy.png)
+
+
 ### Transfer learning
 Utilizing the InceptionResNetV2 model the same process is done and results are comapared:
 ![](Transfer_learning_model.png)
