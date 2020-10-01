@@ -29,7 +29,7 @@ Matplotlib is used to visualize the results of the loss and accuracy over time f
 
 
 ### Transfer learning
-Utilizing the InceptionResNetV2 model the same process is done and results are comapared:
+Utilizing the InceptionResNetV2 model the same process is done and results are compared:
 
 
 ![](Transfer_learning_model.png)
